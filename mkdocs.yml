@@ -1,3 +1,5 @@
 site_name: NPU2World
 theme:
   name: material
+
+repo_url: https://npu2world.github.io
