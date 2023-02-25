@@ -21,10 +21,12 @@
 
 首先下载[markdown模版](https://drive.google.com/file/d/1xBMaKf6Eia0WQggsohyJuONElkI-v42O/view?usp=share_link)（按自己想法新建亦可）。编辑完成后向NPU2World@outlook.com提交审核（推荐使用学校邮箱），标题格式“DP提交-姓名/昵称”。审核完成后会尽快回复。
 
+如果你已经加入了飞跃群，也可以向管理员发送自己的DataPoint，审核反馈后同样可以上传。当然，为了减轻管理员的负担，还是建议使用邮件～
+
 ## 如何联系运营团队
 联系方式
 
-- 加入qq群聊579302047
+- 加入飞跃群 Q:579302047
 - 联系团队邮箱NPU2World@outlook.com，标题格式“（来意）-姓名”
 
 欢迎建议、咨询、加入
