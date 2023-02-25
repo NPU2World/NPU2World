@@ -1,4 +1,4 @@
-# NPU CS/EE 飞跃手册
+# HOME: NPU CS/EE 飞跃手册
 
 欢迎！
 
@@ -15,7 +15,7 @@
 
 特别感谢南京大学飞跃手册提供的宝贵参考。
 
-本手册所有信息**禁止留学中介利用**，如有发现，一定追究。
+本手册遵循[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/), 所有信息**禁止留学中介利用**，如有发现，一定追究。
 
 ## 如何提交DataPoint
 
@@ -26,7 +26,7 @@
 ## 如何联系运营团队
 联系方式
 
-- 加入飞跃群 Q:579302047
+- 加入飞跃群 Q:[579302047](https://jq.qq.com/?_wv=1027&k=CwKo9SM6)
 - 联系团队邮箱NPU2World@outlook.com，标题格式“（来意）-姓名”
 
 欢迎建议、咨询、加入
