@@ -13,8 +13,6 @@
 
 本手册目前处于民间运营状态，任何意见建议反馈请联系团队。
 
-特别感谢南京大学飞跃手册提供的宝贵参考。
-
 本手册遵循[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/), 所有信息**禁止留学中介利用**，如有发现，一定追究。
 
 ## 如何提交DataPoint
