@@ -22,17 +22,16 @@ nav:
     - DataPoints:
       - 2017级-Econ-Gearing(MDS @USYD): DataPoints/2017级-Econ-Gearing.md
       - 2019级-HC-袁浩程(CS PhD @ The University of Edinburgh): DataPoints/2019级-HC-袁浩程.md
-      - 2019级-电信-柳煜翔(EE Msc @NUS): DataPoints/2019级-电信-柳煜翔.md
-  - 实用资源&经验分享: 
-    - 实用网站: instruction.md
+      - 2019级-电信-柳煜翔(EE Msc @NUS): DataPoints/2019级-电信-柳煜翔.md 
+    - 学校合作交流项目: projectComment.md
+    - 暑研信息汇总: summerProgramm.md
     - 标化经验分享: 
       - 19-CS-陈雅宣: 标化经验分享/19-CS-陈雅宣.md
     - 暑研实习经验分享:
       - 14-闫奕岐-Mitacs: 其他经验/14-闫奕岐-Mitacs.md
       - 20-刘子骞-阿尔伯塔大学csc暑研: 其他经验/20-刘子骞-阿尔伯塔大学csc暑研.md
-  - 项目信息:
-    - 学校合作交流项目: projectComment.md
-    - 暑研信息汇总: summerProgramm.md
+    - 实用网站: instruction.md
+    
 
 
 repo_url: https://npu2world.github.io
