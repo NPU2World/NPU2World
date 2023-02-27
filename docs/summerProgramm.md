@@ -26,8 +26,6 @@
 
 香港：[Summer Institute Index | HKUST Summer Institute](https://summer.hkust.edu.hk/)
 
-**HK的暑研以return offer为主，和提前批相关*
-
 新加坡：[Summer Programmes at NUS](https://www.nus.edu.sg/gro/global-programmes/summer-and-winter-programmes/summer-programmes-at-nus)
 
 瑞士：[Summer@EPFL](https://summer.epfl.ch/apply.html)
