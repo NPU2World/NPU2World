@@ -13,7 +13,7 @@
 
 本手册目前处于民间运营状态，任何意见建议反馈请联系团队。
 
-本手册遵循[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/), 所有信息**禁止留学中介利用**，如有发现，一定追究。
+本手册遵循 [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/), 所有信息**禁止留学中介利用**，如有发现，一定追究。
 
 ## 如何提交DataPoint
 
@@ -39,4 +39,4 @@
 
 袁浩程【HCCS】陈雅宣【CS】江嘉熙【CS】杨益滔【CS】柳煜翔【EE】
 
-感谢Flash和[CSMSAPP](https://csmsapp.org)提供的技术参考；感谢南京大学飞跃手册团队成员提供的宝贵参考。
+感谢 Flash 和 [CSMSAPP](https://csmsapp.org) 提供的技术参考；感谢南京大学飞跃手册团队成员提供的宝贵参考。
