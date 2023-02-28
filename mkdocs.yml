@@ -33,6 +33,6 @@ nav:
     - 实用网站: instruction.md
     
 
-
-repo_url: https://npu2world.github.io
+repo_name: NPU2World
+repo_url: https://github.com/NPU2World/NPU2World
 remote_branch: gh-pages
