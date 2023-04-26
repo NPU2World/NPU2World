@@ -2,7 +2,7 @@
 
 欢迎！
 
-本手册（[主页](https://npu2world.github.io/NPU2World/))创建于2023年，由2019级CS/EE本科生自发组织。
+本手册([主页](https://npu2world.github.io/NPU2World/))创建于2023年，由2019级CS/EE本科生自发组织。
 
 作为国防七子，10043名单成员，从西北工业大学起航的留学之路尤为困难。在不利的大环境下，我们希望汇聚每一位NPU留学人的经历和经验，作为艰难时期下工大学子奋斗的见证，更期为后来者启明引航。
 
@@ -17,7 +17,7 @@
 
 ## 如何提交DataPoint
 
-我们提供[word](https://cowtransfer.com/s/d59909a775b044)和[markdown](https://cowtransfer.com/s/def1a30b865544)两种版本的模板（按照自己想法新建亦可），编辑完成后可以向NPU2World@outlook.com提交审核（推荐使用学校邮箱），标题格式“DP提交-姓名/昵称”。审核完成后会尽快回复。
+我们提供[word](https://cowtransfer.com/s/d59909a775b044)和[markdown](https://cowtransfer.com/s/def1a30b865544)两种版本的模板(按照自己想法新建亦可)，编辑完成后可以向NPU2World@outlook.com提交审核(推荐使用学校邮箱)，标题格式“DP提交-姓名/昵称”。审核完成后会尽快回复。
 
 如果你已经加入了飞跃群，也可以直接向管理员发送自己的DataPoint，审核反馈后同样可以上传。当然，为了减轻管理员的负担，还是建议使用邮件～
 
