@@ -37,6 +37,8 @@
 
 ## 团队名单&致谢
 
-袁浩程【HCCS】陈雅宣【CS】江嘉熙【CS】杨益滔【CS】柳煜翔【EE】
+游俊【SE】 邓成玺【HCCS】 刘一恒【Math】
+
+**Alumni**：袁浩程【HCCS】陈雅宣【CS】江嘉熙【CS】杨益滔【CS】柳煜翔【EE】
 
 感谢 Flash 和 [CSMSAPP](https://csmsapp.org) 提供的技术参考；感谢南京大学飞跃手册团队成员提供的宝贵参考。
